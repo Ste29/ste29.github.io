@@ -15,3 +15,14 @@ page. It's some sort of metadata. Those metadata come from archetypes/default.md
 11. Every configuration is stored inside config.toml
 12. Test your dev repo with 'hugo server -D'
 13. Set up config.toml (you can use instead config.yaml or config.json, as you pref) https://gohugo.io/getting-started/configuration/
+put images in /static
+-- 14. commit and push dev repo
+-- 15. go in ste29.github.io repo and do 'git submodule add -b main https://github.com/Ste29/blog-dev/public' this will clone dev repo in
+public folder
+
+14. run deploy.sh in bash or git shell, this will set up your blog
+15. copy public folder inside main repo
+
+
+git submodule copy another repo in a specified folder of your repo, it manages everything through a .gitmodules file and 
+modules folder inside .git
