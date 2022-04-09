@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Data Centric World</title>
-    <link>https://ste29.github.io/</link>
-    <description>Recent content on Data Centric World</description>
+    <title>Personal thoughts on Data Centric World</title>
+    <link>https://ste29.github.io/tags/personal-thoughts/</link>
+    <description>Recent content in Personal thoughts on Data Centric World</description>
     <image>
       <url>https://ste29.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://ste29.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Apr 2022 12:18:54 +0200</lastBuildDate><atom:link href="https://ste29.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 12:18:54 +0200</lastBuildDate><atom:link href="https://ste29.github.io/tags/personal-thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Knowledge as a Code</title>
       <link>https://ste29.github.io/post/knowledge-as-a-code/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://ste29.github.io/post/knowledge-as-a-code/</guid>
       <description>My note taking journey: from paper to blog creation</description>
-    </item>
-    
-    <item>
-      <title>Testpage</title>
-      <link>https://ste29.github.io/post/testpage/</link>
-      <pubDate>Sun, 03 Apr 2022 11:24:38 +0200</pubDate>
-      
-      <guid>https://ste29.github.io/post/testpage/</guid>
-      <description>![https://github.com/Ste29/blog-dev/tree/main/static/CV-Villata-Stefano.pdf]</description>
     </item>
     
   </channel>
