@@ -11,6 +11,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 09 Apr 2022 12:18:54 +0200</lastBuildDate><atom:link href="https://ste29.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Stefano Villata</title>
+      <link>https://ste29.github.io/stefanovillata/</link>
+      <pubDate>Sat, 09 Apr 2022 20:34:44 +0200</pubDate>
+      
+      <guid>https://ste29.github.io/stefanovillata/</guid>
+      <description>Hi, I&amp;rsquo;m Stefano Villata, a biomedical engineer passionate about data.
+Following you can see my CV (png), or you can download the pdf version from here.
+ </description>
+    </item>
+    
+    <item>
       <title>Knowledge as a Code</title>
       <link>https://ste29.github.io/post/knowledge-as-a-code/</link>
       <pubDate>Sat, 09 Apr 2022 12:18:54 +0200</pubDate>
@@ -25,7 +36,7 @@
       <pubDate>Sun, 03 Apr 2022 11:24:38 +0200</pubDate>
       
       <guid>https://ste29.github.io/post/testpage/</guid>
-      <description></description>
+      <description>TEST</description>
     </item>
     
   </channel>
